@@ -9,7 +9,7 @@ My goal is to expand my expertise in the following areas of technical writing:
 I am currently dedicated to documenting open-source APIs with a focus on the following key areas:
    •	Endpoint Descriptions: Clearly outlining the functionality and purpose of each API endpoint.
    •	Request and Response Structures: Offering comprehensive examples of API calls, detailing required parameters and expected responses.
-   •	Authentication Methods: Explaining the authentication process and highlighting the security measures in place.
+  •	Authentication Methods: Explaining the authentication process and highlighting the security measures in place.
    •	Error Handling: Providing thorough documentation of common error codes and recommended solutions.
 
 2.	Project README Files 
