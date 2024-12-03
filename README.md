@@ -30,8 +30,8 @@ I am honing my skills in crafting user-centric manuals with an emphasis on:
 ## 4.	Contributing to Open-Source Documentation
    
 I aspire to contribute to the documentation of open-source projects by:
-	-  Enhancing the clarity and consistency of existing documentation.
-	-  Authoring new sections for features that are currently under-documented.
+   -  Enhancing the clarity and consistency of existing documentation.
+   -  Authoring new sections for features that are currently under-documented.
    -  Creating tutorials and how-to guides to assist developers in utilizing these projects effectively.
 
 ## 📫 Contact Information 
