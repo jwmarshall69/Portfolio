@@ -1,4 +1,4 @@
-I am a dedicated technical writer with a passion for creating clear, concise, and user-friendly documentation tailored for both developers and end-users. My expertise lies in translating complex technical concepts into easily understandable guides, manuals, and online help resources. I am continually improving my skills by working on open-source projects and practicing the documentation of APIs, software manuals, and technical guides. 
+I am a dedicated technical writer passionate about creating clear, concise, and user-friendly documentation tailored for developers and end-users. My expertise is in translating complex technical concepts into easily understandable guides, manuals, and online help resources. I am continually improving my skills by working on open-source projects and practicing the documentation of APIs, software manuals, and technical guides. 
    -	👀 I’m interested in Technical Writing
    -	🌱 I’m currently learning DITA XML, JSON, Markdown, HTML, API Documentation
 ## What I’m Practicing
@@ -7,18 +7,18 @@ My goal is to expand my expertise in the following areas of technical writing:
 ## 1.	API Documentation 
 
 I am currently dedicated to documenting open-source APIs with a focus on the following key areas:
-   -	Endpoint Descriptions: Clearly outlining the functionality and purpose of each API endpoint.
+   -	Endpoint Descriptions: Clearly outline the functionality and purpose of each API endpoint.
    -	Request and Response Structures: Offering comprehensive examples of API calls, detailing required parameters and expected responses.
-   -	Authentication Methods: Explaining the authentication process and highlighting the security measures in place.
-   -	Error Handling: Providing thorough documentation of common error codes and recommended solutions.
+   -	Authentication Methods: Explain the authentication process and highlight the security measures.
+   -	Error Handling: Providing thorough documentation of standard error codes and recommended solutions.
 
 ## 2.	Project README Files 
 
 I specialize in crafting comprehensive and well-structured README files that assist developers and users in quickly grasping the following:
    -	Project Purpose: Clearly articulating the objectives and scope of the project.
-   -	Installation, Configuration, and Execution: Providing step-by-step instructions on how to install, configure, and run the software.
+   -	Installation, Configuration, and Execution: This section provides step-by-step instructions on installing, configuring, and running the software.
    -	Contribution Guidelines: Outlining the process for contributing to open-source collaboration, including code of conduct and submission procedures.
-   -	Licensing and Essential Information: Detailing the project's license and any other crucial information.
+   -	Licensing and Essential Information: Detailing the project's license and other crucial information.
 
 ## 3.	User Guides and Manuals
    
